@@ -1,0 +1,2 @@
+C:\Users\Art3mis\AppData\Local\Temporary Projects\MuteSharp\bin\Debug\MuteSharp.exe.config
+C:\Users\Art3mis\Documents\Visual Studio 2012\Projects\MuteSharp\MuteSharp\bin\Debug\MuteSharp.exe.config
