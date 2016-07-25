@@ -1,19 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics.CodeAnalysis;
+using System;
 using System.Drawing;
-using System.IO;
-using System.Net;
-using System.Web;
-using System.Text;
-using System.Text.RegularExpressions;
-using System.Threading;
 using LeagueSharp;
 using LeagueSharp.Common;
-using SharpDX;
-using System.Reflection;
 using Color = SharpDX.Color;
-using System.Linq;
 
 namespace MuteSharp
 {
